@@ -53,6 +53,12 @@
     width: 50%;
     padding: 2vw 2vw 2vw 10vw;  
 }
+.heading-1 h5{
+    color: rgba(0, 128, 0, 0.7); font-size: 2.5vw; margin-top: 5vw; letter-spacing: 2px;
+}
+.para p{
+    color: rgba(0, 0, 0, 0.555); font-weight: 499; font-size: 1.3vw; line-height: 2vw; margin-top: 1vw;
+}
 .start{
     display: flex;
     gap: 2em;
