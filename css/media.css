@@ -5,8 +5,10 @@
         align-items: center;
         padding: 1vw 5vw;
         height: 15vh;
-        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
         background: #FAFAFA;
+        position: sticky;
+        top: 0px;
     }
     .logo img{
         width: 50%;
