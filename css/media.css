@@ -77,4 +77,10 @@
     .footer {
         margin-top: 20vw;
     }
+    .modelheading01{
+        color: hsl(35, 100%, 55%); font-weight: 699; font-size: 6vw;
+    }
+    .modelheading02{
+        font-size: 6vw; color: rgba(0, 128, 0, 0.7);
+    }
 }
